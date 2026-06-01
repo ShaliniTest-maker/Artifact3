@@ -8,3 +8,6 @@ pnpm-debug.log*
 
 # OS / editor files
 .DS_Store
+
+# Blitzy platform artifacts (local validation screenshots/recordings; not part of the deliverable)
+blitzy/
